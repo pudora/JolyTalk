@@ -1,2 +1,2 @@
-# JolyTalk
-LocalHost ChatServer and Client (GUI)
+# Chat-Server
+Project 4, CS180
